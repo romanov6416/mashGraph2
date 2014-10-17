@@ -1,4 +1,0 @@
-prac.cs.msu.struct 
-{
-	
-};
